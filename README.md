@@ -1,6 +1,9 @@
 # BouncingBall
 웹 게임(공 튀기기)
 
+# 플레이 하기
+https://wizardly-knuth-efd585.netlify.app/
+
 # 핵심 구조
 - index.html
 - game.js
